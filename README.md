@@ -16,7 +16,7 @@ Puedes escuchar todos estos archivos:
 
 ## Cómo instalar la dependencia:
 
-Debian/Ubuntu:
+Debian/Ubuntu/LyndsOS:
 ```
 sudo apt update && sudo apt install ffmpeg
 ```
