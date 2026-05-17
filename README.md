@@ -11,7 +11,10 @@ Puedes escuchar todos estos archivos:
 - `.opus`
 - `.mp4` 
 - `.mkv`
+  
 (Los archivos de video son solo el audio del video)
+
+## Cómo instalar la dependencia:
 
 Debian/Ubuntu:
 ```
