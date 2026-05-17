@@ -33,5 +33,5 @@ sudo dnf install ffmpeg
 
 
 
-Toda la configuración se guarda en ~/.config/MonojoMusic/.
-El icono monojo_music.png se mueve a esa carpeta.
+> Toda la configuración se guarda en ~/.config/MonojoMusic/.
+> El icono monojo_music.png se mueve a esa carpeta.
