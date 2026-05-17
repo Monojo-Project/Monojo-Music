@@ -30,3 +30,7 @@ Fedora:
 ```
 sudo dnf install ffmpeg
 ```
+
+
+### Toda la configuración se guarda en ~/.config/MonojoMusic/
+### El icono monojo_music.png se copia a esa carpeta.
