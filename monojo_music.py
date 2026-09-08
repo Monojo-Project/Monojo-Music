@@ -21,7 +21,7 @@ import shutil
 import threading
 
 # ------------------- Depuración -------------------
-DEBUG_ENABLED = True
+DEBUG_ENABLED = False
 
 DEBUG_LOG = "/tmp/monojo_music_debug.log"
 def debug(msg):
